@@ -1,0 +1,18 @@
+{
+    "name": "EERAM_DTWI",
+    "provides": "EERAM_DTWI.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "chipKIT DTWI library for the 47L16 EERAM",
+    "category": "Storage",
+    "subcategory": "EEPROM",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.0",
+    "family": "pic32",
+    "core": "chipkit",
+    "install": {
+        "examples": "/",
+        "EERAM_DTWI.cpp": "/",
+        "EERAM_DTWI.h": "/"
+    }
+}
